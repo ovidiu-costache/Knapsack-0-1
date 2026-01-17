@@ -1,0 +1,11 @@
+# Png files
+*.png
+
+# Executables
+knapsack_solver
+
+# Tests
+tests/*
+
+# Venv
+.venv/*
